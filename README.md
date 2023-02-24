@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FJava-Logo.png&f=1&nofb=1&ipt=a62749697f6a739b11191df8086f8ef651575ad7f6fe39e6712908a4e39d0ecd&ipo=images" alt="java" width="40" height="40"/> </a> |
+<a href="https://spring.io/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fspring-3-logo-png-transparent.png&f=1&nofb=1&ipt=0e18d9c7eed8ae1fa582204c605b78d406ec83778d8acfce14f2ccce0d77ba7b&ipo=images" alt="spring" width="40" height="40"/> </a> |
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F480px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1&ipt=42a64e476726b33adfaa460ac31b1abfffe7d39bda21df13cff3f9441346406c&ipo=images" alt="js" width="40" height="40"/> </a> |
+<a href="https://reactjs.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F2300px-React-icon.svg.png&f=1&nofb=1&ipt=3bbcb531a5d14f2ddd72adef1d2a17f68652d261f13540b4c7ec610a311a8681&ipo=images"  alt="react" width="40" height="40"/> </a> 
+</p>
 
 <!--
 **KalinIvanov-l/KalinIvanov-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
