@@ -4,6 +4,19 @@
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://images.ctfassets.net/23aumh6u8s0i/Gbd2bxUf83mbfw0QhGKF4/67c00e8fce936143425b965870123e1c/kubernetes" alt="kubernetes" width="40" height="40"/> </a>     & others  
 </p>
 
+[![GitHub Streak Stats Dark](https://raw.githubusercontent.com/KalinIvanov-l/KalinIvanov-l/output/github-snake-dark.svg#gh-dark-mode-only)](https://github.com/KalinIvanov-l)
+
+
+[//]: # (<picture>)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/KalinIvanov-l/KalinIvanov-l/output/github-snake-dark.svg" />)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/KalinIvanov-l/KalinIvanov-l/output/github-snake.svg" />)
+
+[//]: # (  <img alt="GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/KalinIvanov-l/KalinIvanov-l/output/github-snake.svg" />)
+
+[//]: # (</picture>)
+
 <!--
 **KalinIvanov-l/KalinIvanov-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
